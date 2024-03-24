@@ -15,7 +15,7 @@ permissions:
 
 env:
   GIT_USER_EMAIL: kindijabi31@gmail.com
-  GIT_USER_NAME: dante4rt
+  GIT_USER_NAME: alkindivv
 
 jobs:
   ethereum_auto_commit:
