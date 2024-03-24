@@ -46,3 +46,4 @@
 {"jsonrpc":"2.0","id":"1","result":626933}
 {"jsonrpc":"2.0","id":"\"1\"","result":626933}
 {"jsonrpc":"2.0","id":"1","result":626934}
+{"jsonrpc":"2.0","id":"\"1\"","result":626937}
